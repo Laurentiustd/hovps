@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/hovps/static/css/main.b373455c.css",
+    "main.js": "/hovps/static/js/main.853a9979.js",
+    "static/js/787.deeec6c3.chunk.js": "/hovps/static/js/787.deeec6c3.chunk.js",
+    "static/media/unilever.png": "/hovps/static/media/unilever.632920d348dc0efaee99.png",
+    "static/media/tokped.png": "/hovps/static/media/tokped.0514b613232c0198e3ef.png",
+    "static/media/gojek.png": "/hovps/static/media/gojek.083da7be4663bbe36148.png",
+    "index.html": "/hovps/index.html",
+    "main.b373455c.css.map": "/hovps/static/css/main.b373455c.css.map",
+    "main.853a9979.js.map": "/hovps/static/js/main.853a9979.js.map",
+    "787.deeec6c3.chunk.js.map": "/hovps/static/js/787.deeec6c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b373455c.css",
+    "static/js/main.853a9979.js"
+  ]
+}
