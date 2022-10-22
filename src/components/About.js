@@ -1,5 +1,5 @@
 import "../App.css";
-
+import { Link } from "react-router-dom";
 
 function App() {
 
@@ -11,7 +11,7 @@ function App() {
         with full of heart, we don’t need money, we just need your feedback to
         make our company great!
       </p>
-      <button><a href="/about" style={{textDecoration:"none", color:"inherit"}}>More About Us</a></button>
+      <button><Link to="/aboutpage" style={{textDecoration:"none", color:"inherit"}}>More About Us</Link></button>
     </div>
   );
 }

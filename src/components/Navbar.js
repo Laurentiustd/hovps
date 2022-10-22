@@ -18,7 +18,7 @@ function App() {
       <div className="navbar-link">
         <ul ref={navRef}>
           <li>
-            <Link to="/hovpscompany">Home</Link>
+            <Link to="/hovps">Home</Link>
           </li>
           <li>
             <Link to="/aboutpage">About Us</Link>

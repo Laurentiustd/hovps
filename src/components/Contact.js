@@ -1,5 +1,5 @@
 import "../App.css";
-
+import { Link } from "react-router-dom";
 function App() {
   return (
     <div className="container-contact">
@@ -8,7 +8,7 @@ function App() {
         Got a Project in mind? let us know by clicking the button here or
         contacting us through our social media, get to know more about us!
       </p>
-      <button><a href="/contact" style={{textDecoration:"none", color:"inherit"}}>Lets Talk Our Project!</a></button>
+      <button><Link to="/contactpage" style={{textDecoration:"none", color:"inherit"}}>Lets Talk Our Project!</Link></button>
     </div>
   );
 }
