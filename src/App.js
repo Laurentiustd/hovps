@@ -11,7 +11,7 @@ function App() {
     <Router>
       <div>
         <Routes>
-          <Route exact path="/hovps" element={<Home />} />
+          <Route exact path="/hovpscompany" element={<Home />} />
           <Route path="/aboutpage" element={<Aboutpage />} />
           <Route path="/featurespage" element={<Featurespage />} />
           <Route path="/contactpage" element={<Contactpage />} />
